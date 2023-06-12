@@ -1,0 +1,28 @@
+.card {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  box-shadow: 0 4px 8px 0 hsla(198, 37%, 52%, 0.2);
+  transition: 0.3s;
+  width: 80%;
+  border-radius: 10px;
+  background-color: rgb(139, 184, 210);
+  padding: 3%;
+  box-shadow: lightgrey 10px 10px 30px;
+  margin: 1%;
+}
+:hover {
+}
+.card1 {
+  position: absolute;
+  top: 110%;
+  left: 5%;
+  box-shadow: 0 4px 8px 0 hsla(198, 37%, 52%, 0.2);
+  transition: 0.3s;
+  width: 80%;
+  border-radius: 10px;
+  background-color: rgb(139, 184, 210);
+  padding: 3%;
+  box-shadow: lightgrey 10px 10px 30px;
+  margin: 1%;
+}

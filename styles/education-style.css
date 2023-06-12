@@ -1,0 +1,42 @@
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 50%;
+  text-align: right;
+  background-color: blanchedalmond;
+  padding: 10px;
+}
+
+.education {
+  display: flex;
+  background-color: aliceblue;
+  margin-top: 10%;
+
+  width: 50%;
+
+  margin-left: 6%;
+}
+.images-spec {
+  background-color: aliceblue;
+}
+body {
+  background-color: aliceblue;
+}
+.navbar {
+  position: absolute;
+  display: flex;
+  top: 2%;
+  right: 0%;
+  left: 1%;
+  justify-content: end;
+  padding: 5px;
+  margin: 0px;
+  background-color: #559996;
+  width: 97%;
+}
+.navbar-contain {
+  padding: 10px;
+  color: black;
+}

@@ -1,0 +1,72 @@
+.navbar {
+  position: absolute;
+  display: flex;
+  right: 0%;
+  left: 1%;
+  justify-content: end;
+  padding: 5px;
+  margin: 0px;
+  background-color: #559996;
+  width: 97%;
+}
+.logo {
+  position: absolute;
+  left: 2%;
+  padding: 10px;
+  color: black;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.navbar-contain {
+  padding: 10px;
+  color: black;
+}
+
+.text {
+  position: absolute;
+  top: 35%;
+  left: 73%;
+  transform: translate(-50%, -50%);
+  color: rgb(245, 239, 239);
+  font-size: xx-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.text1 {
+  position: absolute;
+  top: 38%;
+  left: 65%;
+  color: rgb(233, 226, 226);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.tech {
+  position: absolute;
+  top: 45%;
+  left: 65%;
+  color: #d6d0c6;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.resume {
+  position: absolute;
+  padding: 1%;
+  top: 80%;
+  left: 65%;
+  background-color: rgb(77, 187, 233);
+  border-radius: 10px;
+  padding: 6px;
+}
+.photo {
+  background-color: #cdc2ae;
+}
+
+.peofiles {
+  position: absolute;
+  margin: 0%;
+  top: 65%;
+  left: 65%;
+}

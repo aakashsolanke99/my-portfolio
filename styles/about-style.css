@@ -1,0 +1,32 @@
+.heading {
+}
+.name {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  color: rgb(215, 244, 250);
+}
+.heading-2 {
+  position: absolute;
+  top: 60px;
+  left: 100px;
+  color: rgb(215, 244, 250);
+}
+.name-1 {
+  position: absolute;
+  padding: 5%;
+  margin: -1%;
+  border: -4%;
+  top: 100px;
+  left: 40px;
+  right: 50%;
+  color: rgb(4, 8, 9);
+}
+.button {
+  position: absolute;
+  top: 20px;
+  right: 10%;
+  background-color: rgb(77, 187, 233);
+  border-radius: 10px;
+  padding: 6px;
+}
